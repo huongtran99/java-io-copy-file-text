@@ -1,0 +1,4 @@
+copy
+file
+text
+count: 3
